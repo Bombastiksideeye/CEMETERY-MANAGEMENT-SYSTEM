@@ -261,6 +261,29 @@
     </table>
 </div>
 
+<div class="max-w-5xl mx-auto pt-40">
+  <div class="collapse-container pb-40">
+
+  <div class="collapse collapse-plus bg-base-200 my-2 rounded-lg shadow-md  ">
+      <input type="radio" name="my-accordion-3" id="accordion-1" /> 
+      <div class="collapse-title text-xl font-medium">
+        <label for="accordion-1" class="cursor-pointer block p-4">How do I create an account?</label>
+      </div>
+      <div class="collapse-content p-4"> 
+        <p>To create an account, go to the 'Reserve Now' button and fill in the required information such as your username, email, and contact details. Once submitted, then your ready to go.</p>
+      </div>
+    </div>
+
+    <div class="collapse collapse-plus bg-base-200 my-2 rounded-lg shadow-md">
+      <input type="radio" name="my-accordion-3" id="accordion-1" /> 
+      <div class="collapse-title text-xl font-medium">
+        <label for="accordion-1" class="cursor-pointer block p-4">What is Compassion Memorial Gardens?</label>
+      </div>
+      <div class="collapse-content p-4"> 
+        <p>Compassion Memorial Gardens is a serene and beautifully landscaped cemetery dedicated to providing a peaceful final resting place for loved ones. It offers a variety of burial plots, memorial services, and support for grieving families.</p>
+      </div>
+    </div>
+
 
 
 
