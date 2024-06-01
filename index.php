@@ -284,6 +284,17 @@
       </div>
     </div>
 
+    
+    <div class="collapse collapse-plus bg-base-200 my-2 rounded-lg shadow-md">
+      <input type="radio" name="my-accordion-3" id="accordion-2" /> 
+      <div class="collapse-title text-xl font-medium">
+        <label for="accordion-2" class="cursor-pointer block p-4">What services are offered at Compassion Memorial Gardens?</label>
+      </div>
+      <div class="collapse-content p-4"> 
+        <p>We offer a range of services including traditional burials, cremation options, memorial services, and perpetual care for the maintenance of the grounds. We also provide support services for families, including grief counseling and event planning.</p>
+      </div>
+    </div>
+
 
 
 
