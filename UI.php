@@ -153,6 +153,28 @@
     </div>
                 </div>
 
+                <div class="max-w-6xl mx-auto mt-10 pb-40">
+    <h2 class="text-2xl font-bold text-center mb-5 text-green-800">PRICELIST</h2>
+    <table class="min-w-full bg-white shadow-md rounded-lg overflow-hidden ">
+        <thead class="bg-green-700 text-white ">
+            <tr>
+                <th class="py-3 px-4" rowspan="2">Types of Lots</th>
+                <th class="py-3 px-4" rowspan="2">Lot Area Size (Sq m)</th>
+                <th class="py-3 px-4" rowspan="2">Space May Inter as many as:</th>
+                <th class="py-3 px-4" rowspan="2">Price</th>
+                <th class="py-3 px-4" rowspan="2">Down Payment</th>
+                <th class="py-3 px-4" colspan="5">Monthly Amortization 0% Interest</th>
+            </tr>
+            <tr class="bg-green-600 text-white">
+                <th class="py-2 px-4">3 months</th>
+                <th class="py-2 px-4">6 months</th>
+                <th class="py-2 px-4">12 months</th>
+                <th class="py-2 px-4">18 months</th>
+                <th class="py-2 px-4">24 months</th>
+            </tr>
+        </thead>
+        <tbody class="text-gray-700">
+
                
 </body>
 </html>
