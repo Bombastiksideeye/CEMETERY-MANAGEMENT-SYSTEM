@@ -123,6 +123,15 @@
 </a>
 </div>
 
+<style>
+    @keyframes wave {
+        0%, 100% { transform: scale(1); opacity: 1; }
+        50% { transform: scale(1.1); opacity: 0.7; }
+    }
+    .wave-effect {
+        animation: wave 1.5s infinite;
+    }
+</style>
 
                
 </body>
