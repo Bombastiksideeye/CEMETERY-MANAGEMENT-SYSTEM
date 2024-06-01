@@ -306,6 +306,17 @@
     </div>
 
 
+     
+    <div class="collapse collapse-plus bg-base-200 my-2 rounded-lg shadow-md">
+      <input type="radio" name="my-accordion-3" id="accordion-4" /> 
+      <div class="collapse-title text-xl font-medium">
+        <label for="accordion-4" class="cursor-pointer block p-4">Where is Compassion Memorial Gardens located?</label>
+      </div>
+      <div class="collapse-content p-4"> 
+        <p>Compassion Memorial Gardens is conveniently located in a tranquil setting just outside the city. Our address is Lower Lancangan, Oroquieta City, Philippines, and we are easily accessible by car and public transportation.</p>
+      </div>
+    </div>
+
 
 
 
