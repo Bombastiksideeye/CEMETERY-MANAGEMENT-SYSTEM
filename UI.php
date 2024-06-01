@@ -101,6 +101,28 @@
 </a>
 </div>
 
+<div class=" wrapper  p-10 flex items-center justify-center">
+  <a href="#">
+    <button class="container bg-white p-6 rounded-lg shadow-lg">
+        <div class="item ">
+            <h3 class="text-xl font-bold text-green-700">
+                <span class="text-gray-800">PREMIUM</span>
+            </h3>
+        </div>
+        <div class="item mb-4">
+            <p class="text-gray-600">
+                <span class="text-gray-700">A cinematic experience with the best picture and audio quality.</span>
+            </p>
+        </div>
+        <div class="item">
+            <p class="text-lg font-semibold text-gray-900">
+                <span class="text-green-600">₱549/month</span>
+            </p>
+        </div>
+    </button>
+</a>
+</div>
+
 
                
 </body>
