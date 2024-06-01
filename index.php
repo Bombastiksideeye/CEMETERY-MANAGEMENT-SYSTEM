@@ -295,6 +295,17 @@
       </div>
     </div>
 
+    <div class="collapse collapse-plus bg-base-200 my-2 rounded-lg shadow-md">
+      <input type="radio" name="my-accordion-3" id="accordion-3" /> 
+      <div class="collapse-title text-xl font-medium">
+        <label for="accordion-3" class="cursor-pointer block p-4">How can I make a reservation for a plot at Compassion Memorial Gardens?</label>
+      </div>
+      <div class="collapse-content p-4"> 
+        <p>To make a reservation, please click the 'Reserve Now' button  after logging in to your account. You can select a plot and provide the necessary details. Our team will contact you with confirmation and further instructions.</p>
+      </div>
+    </div>
+
+
 
 
 
