@@ -327,6 +327,20 @@
       </div>
     </div>
 
+    
+    <div class="collapse collapse-plus bg-base-200 my-2 rounded-lg shadow-md">
+      <input type="radio" name="my-accordion-3" id="accordion-6" /> 
+      <div class="collapse-title text-xl font-medium">
+        <label for="accordion-6" class="cursor-pointer block p-4">How do I get in touch with Compassion Memorial Gardens for more information?</label>
+      </div>
+      <div class="collapse-content p-4"> 
+        <p>You can contact us via phone at 09176594245, facebook at <a class="text-green-800" target="blank" href="https://www.facebook.com/profile.php?id=100057269898716">Compassion Memorial Gardens - Oroquieta City</a>, or through the contact form on our website. Our friendly staff are available to answer any questions and provide additional information.</p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
 
 
 
