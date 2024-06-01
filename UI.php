@@ -34,6 +34,34 @@
 </div>
 
 
+<dialog id="logout_modal" class="modal">
+    <div class="modal-box w-11/12 max-w-sm bg-green-400 relative">
+        <form method="dialog">
+            <button class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
+        </form>
+        <div class="flex flex-col items-center p-6 bg-white m-auto my-5 border border-green-800 rounded-lg">
+            <h2 class="text-xl font-bold mb-4">Log out of your account</h2>
+            <div class="flex gap-4 mt-4">
+            <a href="UI.php" class="rounded-md bg-green-800 text-white w-24 p-3 text-sm flex justify-center items-center">Cancel</a>
+             <a href="index.php" class="rounded-md bg-green-800 text-white w-24 p-3 text-sm flex justify-center items-center">Log out</a>
+            </div>
+        </div>
+    </div>
+</dialog>
+
+<style>
+    .modal-box {
+        animation: fadeIn 0.3s ease-out;
+    }
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(-20px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+</style>
+
+
+  </div>
+</div>
 
                
 </body>
