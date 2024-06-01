@@ -175,6 +175,32 @@
         </thead>
         <tbody class="text-gray-700">
 
+        
+        <tr>
+                <td class="border px-4 py-2">Socialized (Low Cost)</td>
+                <td class="border px-4 py-2"></td>
+                <td class="border px-4 py-2">1 fresh body</td>
+                <td class="border px-4 py-2">P18,000.00</td>
+                <td class="border px-4 py-2">P5,000.00</td>
+                <td class="border px-4 py-2">P4,333.33</td>
+                <td class="border px-4 py-2">P2,166.66</td>
+                <td class="border px-4 py-2">P1,083.33</td>
+                <td class="border px-4 py-2"></td>
+                <td class="border px-4 py-2"></td>
+            </tr>
+            <tr>
+                <td class="border px-4 py-2">Socialized</td>
+                <td class="border px-4 py-2">2.44</td>
+                <td class="border px-4 py-2">1 fresh body with free tombstone</td>
+                <td class="border px-4 py-2">P29,000.00</td>
+                <td class="border px-4 py-2">P5,000.00</td>
+                <td class="border px-4 py-2">P8,000.00</td>
+                <td class="border px-4 py-2">P4,000.00</td>
+                <td class="border px-4 py-2">P2,000.00</td>
+                <td class="border px-4 py-2">P1,333.33</td>
+                <td class="border px-4 py-2">P1,000.00</td>
+            </tr>
+
                
 </body>
 </html>
