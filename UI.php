@@ -201,6 +201,30 @@
                 <td class="border px-4 py-2">P1,000.00</td>
             </tr>
 
+            <tr>
+                <td class="border px-4 py-2"rowspan="2">Lawn Lot</td>
+                <td class="border px-4 py-2">2.44</td>
+                <td class="border px-4 py-2">1 fresh body & 2 set of bones with free tombstone</td>
+                <td class="border px-4 py-2">P39,000.00</td>
+                <td class="border px-4 py-2">P5,000.00</td>
+                <td class="border px-4 py-2">P11,333.33</td>
+                <td class="border px-4 py-2">P5,666.66</td>
+                <td class="border px-4 py-2">P2,833.33</td>
+                <td class="border px-4 py-2">P1,888.88</td>
+                <td class="border px-4 py-2">P1,416.66</td>
+            </tr>
+            <tr>
+                <td class="border px-4 py-2">Upgraded</td>
+                <td class="border px-4 py-2">2 fresh body & 2 set of bones with free tombstone</td>
+                <td class="border px-4 py-2">P57,000.00</td>
+                <td class="border px-4 py-2">P5,000</td>
+                <td class="border px-4 py-2">P17,333</td>
+                <td class="border px-4 py-2">P8,666.66</td>
+                <td class="border px-4 py-2">P4,333</td>
+                <td class="border px-4 py-2">P2,889</td>
+                <td class="border px-4 py-2">P2,167</td>
+            </tr>
+
                
 </body>
 </html>
