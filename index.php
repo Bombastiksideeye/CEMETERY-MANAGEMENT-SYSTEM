@@ -147,6 +147,25 @@
 </style>
 
 
+<div class=" flex items-center justify-center h-screen w-1/2 m-auto pt-20">
+    <div class="container mx-auto p-4">
+        <div class="bg-white shadow-lg rounded-lg overflow-hidden flex flex-col md:flex-row">
+            <div class="w-full md:w-1/2 h-97">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3946.12723617833!2d123.79807487449418!3d8.487007697238479!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32551fd8667c806f%3A0x3c755bfaf75e0fd0!2sCompassion%20memorial%20gardens!5e0!3m2!1sen!2sph!4v1717043175379!5m2!1sen!2sph" class="w-full h-full" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+            <div class="w-full md:w-1/2 p-6">
+                <h2 class="text-2xl font-bold mb-4 text-center">Contact Us</h2>
+                <input type="text" class="w-full p-3 mb-4 border-2 border-gray-300 rounded-lg focus:outline-none focus:border-green-800" placeholder="Enter Your Name">
+                <input type="text" class="w-full p-3 mb-4 border-2 border-gray-300 rounded-lg focus:outline-none focus:border-green-800" placeholder="Enter Your Email">
+                <input type="text" class="w-full p-3 mb-4 border-2 border-gray-300 rounded-lg focus:outline-none focus:border-green-800" placeholder="Enter Your Phone">
+                <textarea class="w-full p-3 mb-4 border-2 border-gray-300 rounded-lg focus:outline-none focus:border-green-800" placeholder="Message"></textarea>
+                <button class="w-full p-3 bg-green-700 text-white rounded-lg hover:bg-green-800">Send</button>
+            </div>
+        </div>
+    </div>
+                </div>
+
+
 
 
 
