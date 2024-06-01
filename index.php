@@ -317,6 +317,16 @@
       </div>
     </div>
 
+    <div class="collapse collapse-plus bg-base-200 my-2 rounded-lg shadow-md">
+      <input type="radio" name="my-accordion-3" id="accordion-5" /> 
+      <div class="collapse-title text-xl font-medium">
+        <label for="accordion-5" class="cursor-pointer block p-4">Can I visit Compassion Memorial Gardens to see the grounds?</label>
+      </div>
+      <div class="collapse-content p-4"> 
+        <p>Yes, you are welcome to visit Compassion Memorial Gardens. We are open to visitors during our regular hours. Please contact us to schedule a guided tour, where you can see the beautiful landscape and learn more about our services.</p>
+      </div>
+    </div>
+
 
 
 
