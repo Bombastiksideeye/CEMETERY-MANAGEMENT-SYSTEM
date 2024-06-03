@@ -360,7 +360,13 @@
 </script>
 
 
-    
+<footer class="bg-green-700 text-white py-6 mt-10">
+        <div class="max-w-5xl mx-auto px-4">
+            <div class="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-8">
+                <a href="https://www.facebook.com/p/Compassion-Memorial-Gardens-Oroquieta-City-100057269898716/" target="_blank" class="hover:text-gray-300 flex items-center space-x-2">
+                    <i class="fab fa-facebook-f" style="color: #000000;"></i><br><br>
+                    <span>Compassion Memorial Gardens - Oroquieta City</span>
+                </a>
 
 </body>
 </html>
