@@ -368,5 +368,13 @@
                     <span>Compassion Memorial Gardens - Oroquieta City</span>
                 </a>
 
+                <a href="https://www.instagram.com/explore/locations/786115044832299/compassion-memorial-gardens---oroquieta-city/" target="_blank" class="hover:text-gray-300 flex items-center space-x-2">
+                <i class="fa-brands fa-square-instagram" style="color: #000000;"></i><br><br>
+                    <span>Compassion Memorial Gardens - Oroquieta City</span>
+                </a>
+                <a href="tel:+11234567890" target="_blank" class="hover:text-gray-300 flex items-center space-x-2">
+                    <i class="fas fa-phone" style="color: #000000;"></i><br><br>
+                    <span>Contact Number: 0905 131 3005</span>
+                </a>
 </body>
 </html>
