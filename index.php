@@ -343,6 +343,24 @@
 
 
 
+<script>
+  document.querySelectorAll('input[name="my-accordion-3"]').forEach((radio) => {
+    radio.addEventListener('click', function() {
+      if (this.dataset.toggled === "true") {
+        this.checked = false;
+        this.dataset.toggled = "false";
+      } else {
+        document.querySelectorAll('input[name="my-accordion-3"]').forEach((otherRadio) => {
+          otherRadio.dataset.toggled = "false";
+        });
+        this.dataset.toggled = "true";
+      }
+    });
+  });
+</script>
+
+
+    
 
 </body>
 </html>
