@@ -245,7 +245,18 @@
     </table>
 </div>
 
+<div class="max-w-5xl mx-auto ">
+  <div class="collapse-container  pb-40">
 
+    <div class="collapse collapse-plus bg-base-200 my-2 rounded-lg shadow-md">
+      <input type="radio" name="my-accordion-3" id="accordion-2" /> 
+      <div class="collapse-title text-xl font-medium">
+        <label for="accordion-2" class="cursor-pointer block p-4">How can I view the cemetery map?</label>
+      </div>
+      <div class="collapse-content p-4"> 
+        <p>After logging in, you can view the cemetery map by navigating to the 'View Map' section. This map provides a detailed layout of the cemetery, including plots and key landmarks.</p>
+      </div>
+    </div>
 
                
 </body>
