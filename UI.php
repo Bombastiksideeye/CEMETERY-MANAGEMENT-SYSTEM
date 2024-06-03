@@ -225,6 +225,28 @@
                 <td class="border px-4 py-2">P2,167</td>
             </tr>
 
+            <tr>
+                <td class="border px-4 py-2">4-Lot Garden</td>
+                <td class="border px-4 py-2">9.76</td>
+                <td class="border px-4 py-2">7 fresh body & 8 set of bones with free tombstone</td>
+                <td class="border px-4 py-2">P185,000.00</td>
+                <td class="border px-4 py-2">P20,000.00</td>
+                <td class="border px-4 py-2">P55,000.00</td>
+                <td class="border px-4 py-2">P27,500.00</td>
+                <td class="border px-4 py-2">P13,750.00</td>
+                <td class="border px-4 py-2">P9,166.00</td>
+                <td class="border px-4 py-2">P6,875.00</td>
+                
+            </tr>
+            <tr>
+                <td class="text-center" colspan="10"><b>Internment Fee:</b> P 20,000.00, it includes the lower device, chairs, vault, tent, sound system, carpet, and others.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
                
 </body>
 </html>
