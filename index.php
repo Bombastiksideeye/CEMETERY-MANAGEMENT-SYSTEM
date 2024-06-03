@@ -376,5 +376,19 @@
                     <i class="fas fa-phone" style="color: #000000;"></i><br><br>
                     <span>Contact Number: 0905 131 3005</span>
                 </a>
+
+                
+              
+                <a href="https://mail.google.com/mail/u/0/#search/compassionmemorial%40gmail.com?compose=new" target="_blank" class="hover:text-gray-300 flex items-center space-x-2">
+                    <i class="fas fa-envelope" style="color: #000000;"></i><br><br>
+                    <span>Email: compassionmemorial@gmail.com</span>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+
+
+
 </body>
 </html>
