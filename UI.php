@@ -258,7 +258,97 @@
       </div>
     </div>
 
-               
+    
+    <div class="collapse collapse-plus bg-base-200 my-2 rounded-lg shadow-md">
+      <input type="radio" name="my-accordion-3" id="accordion-3" /> 
+      <div class="collapse-title text-xl font-medium">
+        <label for="accordion-3" class="cursor-pointer block p-4">How do I make a reservation for a plot?</label>
+      </div>
+      <div class="collapse-content p-4"> 
+        <p>To make a reservation, log in to your account and go to the 'Reservation' section. Select the desired plot and fill in the necessary details. After submitting, you will receive a confirmation and payment details.</p>
+      </div>
+    </div>
+
+    <div class="collapse collapse-plus bg-base-200 my-2 rounded-lg shadow-md">
+      <input type="radio" name="my-accordion-3" id="accordion-4" /> 
+      <div class="collapse-title text-xl font-medium">
+        <label for="accordion-4" class="cursor-pointer block p-4">How can I update my profile information?</label>
+      </div>
+      <div class="collapse-content p-4"> 
+        <p>To update your profile information, log in to your account and navigate to the 'My Account' section. Here, you can update your personal details, contact information, and change your password.</p>
+      </div>
+    </div>
+
+            
+
+    <div class="collapse collapse-plus bg-base-200 my-2 rounded-lg shadow-md">
+      <input type="radio" name="my-accordion-3" id="accordion-5" /> 
+      <div class="collapse-title text-xl font-medium">
+        <label for="accordion-5" class="cursor-pointer block p-4">How do I view the profile of a deceased person?</label>
+      </div>
+      <div class="collapse-content p-4"> 
+        <p>To view the profile of a deceased person, go to the 'Deceased Profile' section and enter the name or plot number. This will provide you with the relevant details and history of the individual.</p>
+      </div>
+    </div>
+
+    <div class="collapse collapse-plus bg-base-200 my-2 rounded-lg shadow-md">
+      <input type="radio" name="my-accordion-3" id="accordion-6" /> 
+      <div class="collapse-title text-xl font-medium">
+        <label for="accordion-6" class="cursor-pointer block p-4">How can I check my payment history?</label>
+      </div>
+
+      <div class="collapse-content p-4"> 
+        <p>To check your payment history, log in and navigate to the 'Payments History' section. This will display a detailed list of all your transactions, including dates and amounts.</p>
+      </div>
+    </div>
+
+
+    
+    </div>
+</div>
+<script>
+  document.querySelectorAll('input[name="my-accordion-3"]').forEach((radio) => {
+    radio.addEventListener('click', function() {
+      if (this.dataset.toggled === "true") {
+        this.checked = false;
+        this.dataset.toggled = "false";
+      } else {
+        document.querySelectorAll('input[name="my-accordion-3"]').forEach((otherRadio) => {
+          otherRadio.dataset.toggled = "false";
+        });
+        this.dataset.toggled = "true";
+      }
+    });
+  });
+</script>
+
+
+<footer class="bg-green-700 text-white py-6 mt-10">
+        <div class="max-w-5xl mx-auto px-4">
+            <div class="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-8">
+                <a href="https://www.facebook.com/p/Compassion-Memorial-Gardens-Oroquieta-City-100057269898716/" target="_blank" class="hover:text-gray-300 flex items-center space-x-2">
+                    <i class="fab fa-facebook-f" style="color: #000000;"></i><br><br>
+                    <span>Compassion Memorial Gardens - Oroquieta City</span>
+                </a>
+
+                <a href="https://www.instagram.com/explore/locations/786115044832299/compassion-memorial-gardens---oroquieta-city/" target="_blank" class="hover:text-gray-300 flex items-center space-x-2">
+                <i class="fa-brands fa-square-instagram" style="color: #000000;"></i><br><br>
+                    <span>Compassion Memorial Gardens - Oroquieta City</span>
+                </a>
+ 
+                <a href="tel:+11234567890" target="_blank" class="hover:text-gray-300 flex items-center space-x-2">
+                    <i class="fas fa-phone" style="color: #000000;"></i><br><br>
+                    <span>Contact Number: 0905 131 3005</span>
+                </a>
+     
+                
+                <a href="https://mail.google.com/mail/u/0/#search/compassionmemorial%40gmail.com?compose=new" target="_blank" class="hover:text-gray-300 flex items-center space-x-2">
+                    <i class="fas fa-envelope" style="color: #000000;"></i><br><br>
+                    <span>Email: compassionmemorial@gmail.com</span>
+                </a>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>
 
