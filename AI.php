@@ -143,6 +143,16 @@
     <p class="text-gray-400">Track and process payments.</p>
   </div>
 </div>
+<div id="Deceased Profiles" class="container mx-auto mt-10">
+<div class="flex justify-between mb-4 items-center">
+    <h2 class="text-2xl font-semibold">Deceased Profiles</h2>
+    <div class="flex space-x-5 items-center">
+        <i class="fa-solid fa-pen-to-square" style="color: #0f5d0e; font-size: 25px;"></i>
+        <i class="fa-solid fa-plus" style="color: #0f5d0e; font-size: 25px;"></i>
+        <i class="fa-solid fa-trash" style="color: #0f5d0e; font-size: 25px;"></i>
+        <a href="#" class="bg-green-800 text-white py-2 px-4 rounded">SEE ALL</a>
+    </div>
+</div>
 
 
 
