@@ -90,6 +90,12 @@
                 <input type="number" id="down_payment_1" name="down_payment_1" class="mt-1 block w-full rounded-md gap-2 p-2 mt-2 w-full text-sm border border-green-800">
             </label>
 
+            <label class="block col-span-2">
+                <span class="text-gray-700">Monthly Amortization Interest:</span>
+                <input type="number" id="monthly_amortization_1" name="monthly_amortization_1" class="mt-1 block w-full rounded-md gap-2 p-2 mt-2 w-full text-sm border border-green-800">
+            </label>
+
+        </div>
 
 </body>
 </html>
