@@ -154,6 +154,23 @@
     </div>
 </div>
 
+<div class="bg-white shadow-md rounded">
+            <table class="min-w-full bg-white">
+                <thead>
+                    <tr>
+                        <th class="w-1/12 py-2 px-4 bg-gray-200 text-left">LAST NAME</th>
+                        <th class="w-1/12 py-2 px-4 bg-gray-200 text-left">FIRST NAME</th>
+                        <th class="w-1/12 py-2 px-4 bg-gray-200 text-left">MIDDLE NAME</th>
+                        <th class="w-1/12 py-2 px-4 bg-gray-200 text-left">DATE OF BIRTH</th>
+                        <th class="w-1/12 py-2 px-4 bg-gray-200 text-left">DATE OF DEATH</th>
+                        <th class="w-1/12 py-2 px-4 bg-gray-200 text-left">PLACE OF BIRTH</th>
+                        <th class="w-1/12 py-2 px-4 bg-gray-200 text-left">PLACE OF DEATH</th>
+                        <th class="w-1/12 py-2 px-4 bg-gray-200 text-left">CAUSE OF DEATH</th>
+                        <th class="w-1/12 py-2 px-4 bg-gray-200 text-left">BURIAL DATE</th>
+                        <th class="w-1/12 py-2 px-4 bg-gray-200 text-left">BURIAL PLACE</th>
+                    </tr>
+                </thead>
+                <tbody>
 
 
 </body>
