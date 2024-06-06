@@ -33,5 +33,17 @@
                 <span class="text-gray-700">Date of Birth</span>
                 <input type="date" name="birthdate" class="mt-1 block w-full rounded-md gap-2 p-2 mt-2 w-full text-sm border border-green-800">
             </label>
+            <label class="block col-span-2">
+                <span class="text-gray-700">Date of Death</span>
+                <input type="date" name="deathdate" class="mt-1 block w-full rounded-md gap-2 p-2 mt-2 w-full text-sm border border-green-800">
+            </label>
+            <label class="block col-span-2">
+                <span class="text-gray-700">Place of Birth</span>
+                <input type="text" name="birthplace" class="mt-1 block w-full rounded-md gap-2 p-2 mt-2 w-full text-sm border border-green-800" placeholder="Place of Birth">
+            </label>
+            <label class="block col-span-2">
+                <span class="text-gray-700">Place of Death</span>
+                <input type="text" name="deathplace" class="mt-1 block w-full rounded-md gap-2 p-2 mt-2 w-full text-sm border border-green-800" placeholder="Place of Death">
+            </label>
 </body>
 </html>
