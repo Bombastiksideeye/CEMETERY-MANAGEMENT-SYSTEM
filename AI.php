@@ -130,6 +130,22 @@
     <h2 class="font-bold text-xl mb-2">Concerns</h2>
     <p class="text-gray-400">Handle concerns and issues.</p>
   </div>
+  <div class="bg-white text-black rounded-xl shadow p-4 text-center transform hover:scale-105 transition-transform">
+    <i class="fas fa-calendar-alt text-3xl mb-2"></i>
+    <div class="text-3xl font-bold text-blue-500">194</div>
+    <h2 class="font-bold text-xl mb-2">Reservations</h2>
+    <p class="text-gray-400">Manage reservations for events or services.</p>
+  </div>
+  <div class="bg-white text-black rounded-xl shadow p-4 text-center transform hover:scale-105 transition-transform">
+    <i class="fas fa-dollar-sign text-3xl mb-2"></i>
+    <div class="text-3xl font-bold text-blue-500">234</div>
+    <h2 class="font-bold text-xl mb-2">Payments</h2>
+    <p class="text-gray-400">Track and process payments.</p>
+  </div>
+</div>
+
+
+
 </body>
 </html>
 
