@@ -94,8 +94,18 @@
                 <span class="text-gray-700">Monthly Amortization Interest:</span>
                 <input type="number" id="monthly_amortization_1" name="monthly_amortization_1" class="mt-1 block w-full rounded-md gap-2 p-2 mt-2 w-full text-sm border border-green-800">
             </label>
+</div>
+        <div class="flex justify-center gap-10 mt-10">
+            <a href="UI.php" class="rounded-md bg-green-800 text-white w-24 p-3 text-sm flex justify-center items-center">Cancel</a>
+             <a href="#" class="rounded-md bg-green-800 text-white w-24 p-3 text-sm flex justify-center items-center">Reserve</a>
+            </div>
+    </form>
+</div>
 
-        </div>
+
+           
+           
+
 
 </body>
 </html>
