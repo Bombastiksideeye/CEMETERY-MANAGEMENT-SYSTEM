@@ -202,6 +202,24 @@
         <a href="#" class="bg-green-800 text-white py-2 px-4 rounded">SEE ALL</a>
     </div>
         </div>
+        <div class="bg-white shadow-md rounded">
+            <table class="min-w-full bg-white">
+                <thead>
+                    <tr>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Email</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Username</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Password</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">First Name</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Middle Name</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Last Name</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Address</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Gender</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Status</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Birth Date</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Age</th>
+                    </tr>
+                </thead>
+                <tbody>
 
 
 </body>
