@@ -70,6 +70,12 @@
                 <span class="text-gray-700">Burial Place</span>
                 <input type="text" name="burial_place" class="mt-1 block w-full rounded-md gap-2 p-2 mt-2 w-full text-sm border border-green-800" placeholder="Burial Place">
             </label>
+            
+            <label class="block col-span-2">
+                <span class="text-gray-700">Lot Type:</span>
+                <input type="text" name="lot_type_1" class="mt-1 block w-full rounded-md gap-2 p-2 mt-2 w-full text-sm border border-green-800" placeholder="Lot Type">
+            </label>
+
 
 </body>
 </html>
