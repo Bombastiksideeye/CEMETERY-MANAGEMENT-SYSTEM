@@ -221,6 +221,37 @@
                 </thead>
                 <tbody>
 
+                
+                <tr class="hover:bg-gray-100">
+                        <td class="border-t py-2 px-4">[Email]</td>
+                        <td class="border-t py-2 px-4">[Username]</td>
+                        <td class="border-t py-2 px-4">[Password]</td>
+                        <td class="border-t py-2 px-4">[First Name]</td>
+                        <td class="border-t py-2 px-4">[Middle Name]</td>
+                        <td class="border-t py-2 px-4">[Last Name]</td>
+                        <td class="border-t py-2 px-4">[Address]</td>
+                        <td class="border-t py-2 px-4">[Gender]</td>
+                        <td class="border-t py-2 px-4">[Status]</td>
+                        <td class="border-t py-2 px-4">[Birth Date]</td>
+                        <td class="border-t py-2 px-4">[Age]</td>
+                    </tr>
+                    <!-- More rows as needed -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div id="Concerns" class="container mx-auto mt-10">
+        <div class="flex justify-between items-center mb-4">
+            <h2 class="text-2xl font-semibold">Concerns</h2>
+            <div class="flex space-x-5 items-center">
+        <i class="fa-solid fa-pen-to-square" style="color: #0f5d0e; font-size: 25px;"></i>
+        <i class="fa-solid fa-plus" style="color: #0f5d0e; font-size: 25px;"></i>
+        <i class="fa-solid fa-trash" style="color: #0f5d0e; font-size: 25px;"></i>
+        <a href="#" class="bg-green-800 text-white py-2 px-4 rounded">SEE ALL</a>
+    </div>
+        </div>
+
 
 </body>
 </html>
