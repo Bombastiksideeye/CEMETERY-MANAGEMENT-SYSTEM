@@ -276,6 +276,28 @@
             </table>
         </div>
     </div>
+    <div id="Reservation Records" class="container mx-auto mt-10">
+        <div class="flex justify-between items-center mb-4">
+            <h2 class="text-2xl font-semibold">Reservation Records</h2>
+            <div class="flex space-x-5 items-center">
+        <i class="fa-solid fa-pen-to-square" style="color: #0f5d0e; font-size: 25px;"></i>
+        <i class="fa-solid fa-plus" style="color: #0f5d0e; font-size: 25px;"></i>
+        <i class="fa-solid fa-trash" style="color: #0f5d0e; font-size: 25px;"></i>
+        <a href="#" class="bg-green-800 text-white py-2 px-4 rounded">SEE ALL</a>
+    </div>
+        </div>
+        <div class="bg-white shadow-md rounded">
+            <table class="min-w-full bg-white">
+                <thead>
+                    <tr>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Username</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Name of Deceased</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Lot Type</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Amount</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Reservation Date</th>
+                    </tr>
+                </thead>
+                <tbody>
 
 
 </body>
