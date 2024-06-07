@@ -322,8 +322,53 @@
         <a href="#" class="bg-green-800 text-white py-2 px-4 rounded">SEE ALL</a>
     </div>
     </div>
+    
+    
+ 
 
 
+
+
+     
+
+
+   
+              
+    <div class="bg-white shadow-md rounded">
+        <table class="min-w-full bg-white">
+            <thead>
+                <tr>
+                    <th class="py-2 px-4 bg-gray-200 text-left">Username</th>
+                    <th class="py-2 px-4 bg-gray-200 text-left">Name of Deceased</th>
+                    <th class="py-2 px-4 bg-gray-200 text-left">Lot Type</th>
+                    <th class="py-2 px-4 bg-gray-200 text-left">Amount</th>
+                    <th class="py-2 px-4 bg-gray-200 text-left">Reservation Date</th>
+                    <th class="py-2 px-4 bg-gray-200 text-left">Area Size (Sq m)</th>
+                    <th class="py-2 px-4 bg-gray-200 text-left">Down Payment</th>
+                    <th class="py-2 px-4 bg-gray-200 text-left">Monthly Amortization (0% Interest)</th>
+                    <th class="py-2 px-4 bg-gray-200 text-left">Date Paid</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="hover:bg-gray-100">
+                    <td class="border-t py-2 px-4">[Username]</td>
+                    <td class="border-t py-2 px-4">[Name of Deceased]</td>
+                    <td class="border-t py-2 px-4">[Lot Type]</td>
+                    <td class="border-t py-2 px-4">[Amount]</td>
+                    <td class="border-t py-2 px-4">[Reservation Date]</td>
+                    <td class="border-t py-2 px-4">[Area Size]</td>
+                    <td class="border-t py-2 px-4">[Down Payment]</td>
+                    <td class="border-t py-2 px-4">[Monthly Amortization]</td>
+                    <td class="border-t py-2 px-4">[Date Paid]</td>
+                </tr>
+                <!-- More rows as needed -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+  </main>
 </body>
 </html>
 
