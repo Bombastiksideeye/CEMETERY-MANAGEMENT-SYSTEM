@@ -251,6 +251,31 @@
         <a href="#" class="bg-green-800 text-white py-2 px-4 rounded">SEE ALL</a>
     </div>
         </div>
+         
+        <div class="bg-white shadow-md rounded">
+            <table class="min-w-full bg-white">
+                <thead>
+                    <tr>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Name</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Email</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Phone</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Message</th>
+                        <th class="py-2 px-4 bg-gray-200 text-left">Date Received</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="hover:bg-gray-100">
+                        <td class="border-t py-2 px-4">[Name]</td>
+                        <td class="border-t py-2 px-4">[Email]</td>
+                        <td class="border-t py-2 px-4">[Phone]</td>
+                        <td class="border-t py-2 px-4">[Message]</td>
+                        <td class="border-t py-2 px-4">[Date Received]</td>
+                    </tr>
+                    <!-- More rows as needed -->
+                </tbody>
+            </table>
+        </div>
+    </div>
 
 
 </body>
